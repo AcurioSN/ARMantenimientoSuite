@@ -25,7 +25,7 @@ Public Class login
 
             '2. Registro de Logs en el sistema ARRECETAS
             UtilLog.EscribirLog(
-                "Ingreso Login ARRECETAS. URL=" &
+                "Ingreso Login ARMANTO. URL=" &
                 Request.Url.ToString())
 
             UtilLog.EscribirLog(
